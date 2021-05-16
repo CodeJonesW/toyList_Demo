@@ -86,11 +86,15 @@ If this is your first time coding on your computer, there are a few things you w
 3. Basic File Managing Skills - this consists of knowing how to create new files with extensions like .txt .html .css .js, create new folders, copy and paste folders and files.
 Now you are ready to code!!
 
+Since we are assuming its your first time. Make sure to
 
-
-
-
-
+1. Open a folder into VScode
+2. Create 3 new files index.html, index.js, style.css
+3. Copy and Paste each the code from each file in this repository into the respective file on your computer
+4. Save each file
+5. Right click the index.html and open with your browser
+6. You should now be able to see the toyList!
+7. Playing with code is a great way to learn how it works and what changes may break the app!
 
 
 
