@@ -8,7 +8,7 @@
 # Coding for Kids - Learn To Create Simple Web Applications ToyList Explained
 
 
-#Intro and Learning Style
+## Intro and Learning Style
 Getting into computer programming and making apps can be a slow start. I have come up with a unique learning style that will allow students to understand big picture ideas, break them apart into small pieces, and extract concepts. Working on coding fundamentals is crucial to starting to think like a developer to solve problems. These tutorials are designed to assist the beginner programmer as well as people who are curious about taking their first step. Fundamentals are not required for these tutorials but will improve your ability to apply these concepts in the future! 
 There are so many technologies being used to create our modern world. Understanding how applications are made can be difficult due to the growing number of ways that people have created them previously. 
 This guide will allow you to get a basic understanding of web applications and how they work! These days there are many different types of apps built out of different technology stacks (list of all the technology services used to build and run one single application). In order to understand modern applications. The best starting point is learning about basic websites.
@@ -19,7 +19,7 @@ In order to embark on learning how to write in each of these languages the best 
 In this guide we will interact with applications as we learn.The practice of writing and interacting with these apps will help solidify these concepts much faster than just reading about them! This is the way of the developer!
 We are going to take a look at a very simple web page and then interact with it!
 
-#HTML
+## HTML
 When a user arrives at this page, we see the title "Favorite Toys", an input box (where users can type in text), and a submit button all presented on a colorful background. All of the elements that we see here are createdI HTML. The elements that are used on this page are 
 h1 heading element for displaying text
 div - division element. Divs are used to organize elements and apply styles
@@ -37,7 +37,7 @@ click the submit button
 see the toy rendered on the page!
 If you still have questions about the way in which this HTML code works that's okay! 
 Learning the ins-and-outs of HTML syntax takes time but today we can establish understandings of concepts!
-Javascript
+## Javascript
 The ability for the computer to sense the user’s click, capture the user's text input, and render it onto the page comes from JavaScript! One of the most common ways for a user to interact with a page is through clicking. We can use something called in the add event listener to listen for user clicks on HTML elements in the document. This is what we're doing on line 14 with the submit button.
 Our javascript file knows how to access the HTML through the keyword document. This keyword document references the HTML page itself. 
 The reason why our javascript knows about the HTML is because we are linking the javascript into the HTML file on line 18 of index.html
@@ -46,12 +46,12 @@ The reason why our javascript knows about the HTML is because we are linking the
 
 
 
-#CSS files are used to apply the stylings to a website! 
+## CSS 
 All the colors, fonts, and alignment of content are controlled by the CSS. Animations, responsive design, and customizing default HTML elements are all possibilities as well.  In this exercise we are using CSS to set the background color, font style, and sizing of the input and button. 
 This is what CSS syntax looks like 
 
 
-In CSS you can style by the tag name, the class name, and the ID of an HTML element
+## In CSS you can style by the tag name, the class name, and the ID of an HTML element
 Once again don't worry if you don't understand all of the syntax here we're just getting an overview so you can see how some general styles are applied to the elements we have created on our HTML page.
 The HTML knows about the CSS attributes because of the link element on line 8 of the HTML document. This is where we inform the HTML of the location of the CSS file.
 
