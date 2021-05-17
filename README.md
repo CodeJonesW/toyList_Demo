@@ -79,7 +79,7 @@ CSS
 
 
 
-#Resources
+# Resources
 If this is your first time coding on your computer, there are a few things you will need to download. As you grow as a developer installing, learning, and working with new application interfaces (buttons and menus) will become second nature!! We use the power of Google to find each technology's website, documentation, and troubleshooting.
 1. Google Chrome Web browser
 2. Visual Studio Code is an IDE (Integrated Development Environment). This is software for building applications that combine common developer tools into a single graphical user interface. This is basically a fancy text editor to write code in. There are many tools you can install to enhance the development experience.
